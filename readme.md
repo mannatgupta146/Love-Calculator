@@ -53,7 +53,7 @@ If you'd like to contribute to this project, follow these steps:
 
 This Love Calculator is just for fun and doesn't use any real algorithm to determine compatibility. It’s all random and lighthearted. Please enjoy the results with a sense of humor!
 
---
+---
 If you encounter any bugs or issues while using the app, please open an issue on this repository. Feel free to report any suggestions or improvements as well!
 
 
